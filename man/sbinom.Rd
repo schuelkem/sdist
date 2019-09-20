@@ -38,7 +38,7 @@ plot(support, dbinom(support, 40, 0.5))
 sbinom(40, 0.5)
 }
 \seealso{
-\code{\link[stats:dbinom]{Binomial}}
+\code{\link[stats]{Binomial}}
 
     \url{https://en.wikipedia.org/wiki/Binomial_distribution}
 }

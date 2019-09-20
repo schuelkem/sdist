@@ -40,7 +40,7 @@ curve(dbeta(x, 1, 1))
 sbeta(1, 1)
 }
 \seealso{
-\code{\link[stats:dbeta]{Beta}}
+\code{\link[stats]{Beta}}
 
     \url{https://en.wikipedia.org/wiki/Beta_distribution}
 }
